@@ -1,0 +1,11 @@
+* train simulator
+** TODO documentation: first finish documentation understand current position and plan ahead
+** TODO degubber: use ddd debugger to debug the code
+
+* gui
+** able to see anything choosen from graphs
+** able to print any value and see it from excel and plot it
+** able to use any feature of the simulator
+** TODO use q custon plot to plot graphs
+* documentation
+** 
