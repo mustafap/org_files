@@ -1,7 +1,10 @@
 * train simulator
+** TODO Find the xml files add them to the system (something wrong with the working directory)
+** TODO Add the new iRoad files to the system
 ** TODO documentation: first finish documentation understand current position and plan ahead
-** TODO degubber: use ddd debugger to debug the code
-
+** TODO degubber: use ddd debugger to debug the code (use qt debugger)
+** TODO Test the files Cihan sent and add them to the code
+** TODO Start doing plots and calculations
 * gui
 ** able to see anything choosen from graphs
 ** able to print any value and see it from excel and plot it
