@@ -1,3 +1,9 @@
 * Literature Survey
 ** Look at Doc. DR. Ahmet Cakans papers
 ** Read papers and do more research
+* Tools
+** He-Ne Laser
++ 10mW at lambda = 632mm is used at paper Analysis of Surface Roughness Using Laser Optical Imaging Techniques
+  http://www.aykamakine.com/tr/ sells laser beams for cutting purposes
+** CCD Camera
+   Easy to find, try to find specs 
